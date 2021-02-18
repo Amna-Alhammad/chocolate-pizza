@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+  }
+header:first-child{
+    margin-top: 40px;
+}
+header section div {
+    float:right;
+    padding-left: 10px;
+}
+.text1{
+    font-size: 40px;
+  font-family:'Brush Script MT', cursive;
+}
+.text {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: xx-small;
+}
+.p1 {
+     font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.p2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: small;
+   color: grey;
+}
+
+header section:nth-child(1){
+    float: left;
+    margin-right: 250px;
+    text-align: center;  
+}
+
+ .colum
+{
+    margin-top: 40px;
+    float: right;
+    float: 50%;
+} 
+/* header div {
+   padding-top: 10px;
+}
+.placeholder{
+    
+ float: left; 
+ padding: 0px;
+  width: 20%; 
+} */
+/* line*/
+body div{
+    float: left;
+    padding: 0px;
+    margin-top: 05px;
+}
+
+
+/* print icone  */
+.print{
+    margin-top: 40px;
+    float: right;
+    float: 50%;
+}
+.pr{
+    float: right;
+    float: 50%;
+    margin-right: 20px;
+    color: grey;
+}
+
+.img1{
+   /* // margin-top: 5px; */
+    width: 100%;
+    block: size 500px;;
+    text-align: center;
+    padding: 20px ;
+}
+
+.mainp{
+    padding: auto;
+    font-size: 20px;
+    line-height: 2;
+    font-family: Georgia;
+    margin: 20px;
+    color: darkgray;
+}
+/* body form {
+    background-image: url('image/list-bg.png');
+    background-repeat: no-repeat;
+} */
+.container {
+    width :"95%";
+    position: relative;
+    text-align: center;
+
+}
+.centerd{
+    position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  .list2{
+    margin-top: 0px;
+    float: right;
+    float: 50%;}
+ 
+  .van{
+    float:right;
+    padding-left: 10px;
+    margin-right: 500px;
+  }
+  .sub{
+    float:right;
+    padding: 10px;
+    margin-left: 30%;
+    color: #dfd1d1;
+    background-color: rgb(189, 46, 46);
+    border-radius: 10px;
+  }
+  .t1{
+    font-size: 40px;
+    font-family:Garamond;
+  }
+  .t2{
+    font-size: 20px;
+    font-family:Garamond;
+  }
+  
+  footer {
+    clear: both;
+    text-align: center;
+    padding: 50px;
+    display: inline-block;
+
+}
+.pp{
+    color: darkgray;
+}
